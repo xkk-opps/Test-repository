@@ -12,3 +12,5 @@ Another list:
 4
 
 no i to dopiero test
+
+test ostateczny xd
